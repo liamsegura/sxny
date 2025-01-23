@@ -6,7 +6,7 @@ A full-stack TypeScript application with a React frontend and a Node.js backend.
 Built using the [SpaceTraders.io](https://docs.spacetraders.io/) API
 
 You can view it here: https://sxny.vercel.app/ <br>
-IF YOU TRIED THE URL ATTACHED TO THIS REPO AND IT HAS ERRORS, ITS BECAUSE THE API KEY FOR SPACETRADERS RESETS EVERY 2 WEEKS
+IF YOU'RE GETTING ERRORS FROM THIS LINK, ITS BECAUSE THE API KEY FOR SPACETRADERS RESETS EVERY 2 WEEKS AND I HAVEN'T UPDATED THE KEY AGAIN
 
 <div style="display: flex; align-items: center; gap: 1rem;">
   <img src="https://github.com/user-attachments/assets/fd1cdf62-4b5b-4a0a-9d5d-9828a40b4456" alt="Landscape Screenshot" style="width: 70%; object-fit: contain;">
