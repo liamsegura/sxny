@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: HelveticaNow, sans-serif;
+  background-color: #090909;
+  color: white;
+}
+
+/* flashing background for skeleton loader, like shadcn */
+.skeleton {
+  @apply bg-gray-500 animate-flash;
+}
